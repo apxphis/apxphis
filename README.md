@@ -9,7 +9,8 @@ a self-taught programmer and backend developer, with not that many projects on m
 help my friends with developing their discord bot! you should check out [the bot!](https://github.com/CoasterFan5/lifebot)
 
 # you can reach me at...
-discord! my username is `lxnxyru`
+discord!: `lxnxyru`
+instagram!: @apxphis.06
 
 <!--
 **apxphis/apxphis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
