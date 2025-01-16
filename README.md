@@ -10,7 +10,7 @@ help my friends with developing their discord bot! you should check out [the bot
 
 # you can reach me at...
 discord!: `lxnxyru`
-instagram!: @apxphis.06
+instagram!: `@apxphis.06`
 
 <!--
 **apxphis/apxphis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
